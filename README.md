@@ -15,7 +15,7 @@ BTG preserves and implements Bitcoin features such as SegWit, which enables adva
 
 Although BTG was bootstrapped on 12 Nov to create an entirely new network, it contains the entire Bitcoin blockchain until block 491406. This means BTG was a full fork at that time, with all Bitcoin transaction history since 2009. Any Bitcoin wallet address which held Bitcoin in BTC block 491406 before the fork held an equal number of Bitcoin Gold in BTG block 491407 after the fork, and those funds are accessible through the original private keys.
 
-## Releases
+## Releases ##
 
 This is the staging tree of Bitcoin Gold. For release version, please switch to [0.17 branch](https://github.com/BTCGPU/BTCGPU/tree/0.17) or [release page](https://github.com/BTCGPU/BTCGPU/releases).
 
